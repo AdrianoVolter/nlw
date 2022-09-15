@@ -112,6 +112,10 @@ section ul li:hover{
     order: 0;
     flex-grow: 0;
 }
+.social-list img{
+    width: 50px;
+    height: 50px;
+}
 
 /*Animaçao*/
 
