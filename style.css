@@ -69,14 +69,10 @@ section div{
     border-radius: 8px;
 }
 section h2 {
-    font-weight: 900;
-    font-size: 24px;
     letter-spacing: -0.47px;
 }
 
-section p {
-    font-weight: 400;
-    font-size: 16px;
+section p { 
     letter-spacing: -0.18px;
     color: #A1A1AA;
 }
@@ -85,6 +81,7 @@ section ul {
     display: flex;
     gap: 16px;
     margin-top: 24px;
+    flex-wrap: wrap;
 }
 section ul li {
     transition: tranform .3s;
