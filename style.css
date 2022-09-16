@@ -11,9 +11,9 @@ ul {
 body{
     background-image: url("assets/download.jpeg");
     background-position: top center;
-    background-size: 100% auto;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-color: #111213;
+    background-color: #121314;
     
 }
 body * {
